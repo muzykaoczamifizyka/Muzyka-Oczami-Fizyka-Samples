@@ -1,0 +1,10 @@
+﻿"E(level)(keV)","XREF","T1/2(level)",
+"0","ABCDE","1.55 MeV 44",
+"4.1E3 6","B D","5.6 MeV 15",
+"8.0E3 8","B","4 MeV 2",
+"12.3E3 7","B D","4.2 MeV 15",
+"18.7E3 5","B D","3.9 MeV 9",
+
+"E(level)","Jπ(level)","T1/2(level)","Comments",
+"0","","1.55 MeV 44","Γ=1.55 MeV +44{I-18, from the weighted average of 1.80 MeV 50 (1984Al08), 1.30 MeV 50 (1986Be35), and 1.5 MeV +18{I-4 (2008Ca22)., E(level): Γ=1.55 MeV +44{I-18, from the weighted average of 1.80 MeV 50 (1984Al08), 1.30 MeV 50 (1986Be35), and 1.5 MeV +18{I-4 (2008Ca22).",
+

@@ -1,0 +1,21 @@
+﻿"E(level)(keV)","XREF","Jπ(level)","T1/2(level)","E(γ)(keV)","M(γ)","Final Levels",
+"0.0","AB","0+","27.06 m 7 , % β- = 100","","","","",
+"835 1","AB","(2+)","","835","","0.0","0+",
+"1179 2","B","(4+)","","344","","835","(2+)",
+"1365 2","B","(6+)","","186","[E2]","1179","(4+)",
+"1365+X?","B","(8+)","6.2 µS 3 , % IT = 100","X","[E2]","1365","(6+)",
+
+"E(level)(keV)","Jπ(level)","T1/2(level)","E(γ)(keV)","Multipolarity","ConversionCoefficient","Additional Data",
+"1365","(6+)","","186","[E2]","0.552","α=0.552 14",
+"1365+X","(8+)","6.2 µS 3 , % IT = 100","X","[E2]","","B(E2)(W.u.)=0.0234 +22-49",
+
+"E(level)","Jπ(level)","T1/2(level)","Comments",
+"0.0","0+","27.06 m 7 , % β- = 100","Isotopic shift (relative to 208Pb)=11503 MHz 20 (1986An06). The authors deduce δ<r2>=+0.610 fm 5 from the measured isotopic shift., E(level): Isotopic shift (relative to 208Pb)=11503 MHz 20 (1986An06). The authors deduce δ<r2>=+0.610 fm 5 from the measured isotopic shift. Yrast cascade.",
+"835","(2+)","","E(level): Yrast cascade.",
+"1179","(4+)","","E(level): Yrast cascade.",
+"1365","(6+)","","E(level): Yrast cascade.",
+"1365+X","(8+)","6.2 µS 3 , % IT = 100","E(level): Yrast cascade.",
+
+"E(level)","E(gamma)","Comments",
+"1365+X","X","E(γ): transition to (6+) level not seen in γ-ray spectra, energy is estimated as x=20-90 keV (2012Go19) based on the observed intensity of x rays and that expected from large internal conversion of a low-energy E2 transition",
+

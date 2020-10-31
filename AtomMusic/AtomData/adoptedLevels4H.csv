@@ -1,0 +1,11 @@
+﻿"E(level)(keV)","XREF","Jπ(level)","T1/2(level)",
+"0.0","A","2-","% n = 100",
+"310","AB","1-","6.73 MeV, % n = 100",
+"2080","","0-","8.92 MeV, % n = 100",
+"2830","AB","1-","12.99 MeV, % n = 100",
+
+"E(level)","Jπ(level)","T1/2(level)","Comments",
+"0.0","2-","% n = 100","T=1, Γ=5.42 MEV, 3.19 MeV above the N+3H mass.",
+"310","1-","6.73 MeV, % n = 100","T=1, Strength is primarily 3p1.",
+"2830","1-","12.99 MeV, % n = 100","T=1, Strength is primarily 1p1.",
+

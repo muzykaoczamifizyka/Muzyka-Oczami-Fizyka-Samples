@@ -1,0 +1,11 @@
+﻿"E(level)(keV)","XREF","Jπ(level)","T1/2(level)",
+"0.0","ABCDEFGH","0+","119.1 ms 12 , % β- = 100, % β-n = 16 1",
+"3.1E+3 5","A CDEF HI","2+","0.6 MeV 2 , % n ≈ 100, % α ≤ 5",
+"4.36E+3 20","B D FGHI","(1-)","1.3 MeV 5 , % n ≈ 100",
+"6.03E+3 10 ?","F","","0.15 MeV 15",
+"7.16E+3 4","C  F","(3-)","0.1 MeV 1",
+
+"E(level)","Jπ(level)","T1/2(level)","Comments",
+"0.0","0+","119.1 ms 12 , % β- = 100, % β-n = 16 1","T=2, %B-3H=0.9 1 (2003Au02, 1986Bo41)., E(level): %B-3H=0.9 1 (2003Au02, 1986Bo41).",
+"4.36E+3","(1-)","1.3 MeV 5 , % n ≈ 100","This state may represent a group of levels. α broad resonance is observed at 4.4 MeV in 9Be(π-,p), 11B(π-p) and 12C(8He,6He2n); a narrow resonance is observed at 4 MeV in 9Be(9Be,10C) and 11B(7Li,10C) and a narrow resonance is observed at 4.54 MeV in 10Be(12C,14O)., E(level): This state may represent a group of levels. α broad resonance is observed at 4.4 MeV in 9Be(π-,p), 11B(π-p) and 12C(8He,6He2n); a narrow resonance is observed at 4 MeV in 9Be(9Be,10C) and 11B(7Li,10C) and a narrow resonance is observed at 4.54 MeV in 10Be(12C,14O).",
+

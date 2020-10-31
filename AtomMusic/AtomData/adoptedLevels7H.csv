@@ -1,0 +1,8 @@
+﻿"E(level)(keV)","XREF","Jπ(level)","T1/2(level)",
+"0","A   EF","(1/2+)","0.09 MeV +94-6",
+"15E3?","D","","2 MeV",
+"20E3?","D","","5 MeV",
+
+"E(level)","Jπ(level)","T1/2(level)","Comments",
+"0","(1/2+)","0.09 MeV +94-6","Using Eres=0.57 MeV +42-21 and assuming the observed resonance is the 7H ground state, the 7H mass excess is ΔM=47.81 +42-21 MeV; this compares with ΔM=49.14 100 MeV given in 2017Wa10. The corresponding binding energy is Eb=7.91 +21-42 MeV., E(level): Using Eres=0.57 MeV +42-21 and assuming the observed resonance is the 7H ground state, the 7H mass excess is ΔM=47.81 +42-21 MeV; this compares with ΔM=49.14 100 MeV given in 2017Wa10. The corresponding binding energy is Eb=7.91 +21-42 MeV.",
+

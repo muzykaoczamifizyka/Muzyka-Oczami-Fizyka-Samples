@@ -1,0 +1,18 @@
+﻿"E(level)(keV)","XREF","Jπ(level)","T1/2(level)",
+"0.0","ABCDEFG IJKLM","0+","806.7 ms 15 , % β- = 100",
+"1797 25","ABCDEFG IJKLM","2+","113 keV 20 , % n = ?, % α = ?",
+"5.6E3 3","DE","(2+, 1-, 0+)","12.1 MeV 11",
+"13.9E3 2 ?","DEFG I  L","(1-,2-)","7.4 MeV 10",
+"15.5E3 5 ?","BC  F  I   M","","4 MeV 2",
+"24.2E3 7","BC EF","","10.9 MeV 15",
+"32E3?","H","","≤ 2 MeV",
+"36E3?","H","","≤ 2 MeV",
+
+"E(level)","Jπ(level)","T1/2(level)","Comments",
+"5.6E3","(2+, 1-, 0+)","12.1 MeV 11","T=1, E(level): Decay mode not specified.",
+"13.9E3","(1-,2-)","7.4 MeV 10","T=1, E(level): Decay mode not specified.",
+"15.5E3","","4 MeV 2","E(level): Decay mode not specified.",
+"24.2E3","","10.9 MeV 15","E(level): Decay mode not specified.",
+"32E3","","≤ 2 MeV","E(level): Decay mode not specified.",
+"36E3","","≤ 2 MeV","E(level): Decay mode not specified.",
+

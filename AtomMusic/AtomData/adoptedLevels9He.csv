@@ -1,0 +1,15 @@
+﻿"E(level)(keV)","XREF","Jπ(level)","T1/2(level)",
+"0.0","A","1/2+","% n = 100",
+"≈1.1E3","BCD","1/2-","0.10 MeV 6",
+"≈2.26E3","B D","","0.7 MeV 2",
+"4.20E3 15 ?","D","","",
+"≈5.0E3","B D","","",
+"8.0E3?","B","","",
+
+"E(level)","Jπ(level)","T1/2(level)","Comments",
+"1.1E3","1/2-","0.10 MeV 6","Decay mode is probably %n=100 based on Q-value; no mode is reported., E(level): Decay mode is probably %n=100 based on Q-value; no mode is reported. Decay mode not specified.",
+"2.26E3","","0.7 MeV 2","Decay mode is probably %n=100 based on Q-value; no mode is reported., E(level): Decay mode is probably %n=100 based on Q-value; no mode is reported. Decay mode not specified.",
+"4.20E3","","","Decay mode is probably %n=100 based on Q-value; no mode is reported., E(level): Decay mode is probably %n=100 based on Q-value; no mode is reported. Decay mode not specified.",
+"5.0E3","","","Decay mode is probably %n=100 based on Q-value; no mode is reported., E(level): Decay mode is probably %n=100 based on Q-value; no mode is reported. Decay mode not specified.",
+"8.0E3","","","Decay mode is probably %n=100 based on Q-value; no mode is reported., E(level): Decay mode is probably %n=100 based on Q-value; no mode is reported. Decay mode not specified.",
+
